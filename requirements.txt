@@ -11,6 +11,10 @@ numexpr
 langchainhub 
 sentencepiece 
 jinja2
-
-
-
+scikit-learn
+sqlite-vss
+langsmith
+langchainhub
+tiktoken
+python-dotenv
+chromadb

@@ -28,6 +28,8 @@ LangChain is a framework for developing applications powered by large language m
 
 ## First LangChain application
 
+[hello_langchain.ipynb](notebooks/hello_langchain.ipynb)
+
 ## Use different LLMs
 
 [llms.ipynb](notebooks/llms.ipynb)
@@ -63,7 +65,7 @@ LangChain is a framework for developing applications powered by large language m
 
 ## UIs for Langchain
 
-t.b.d.
+[gradio-ollama-chat.py](gradio-ollama-chat.py)
 
 ## Low-code development with Langchain
 

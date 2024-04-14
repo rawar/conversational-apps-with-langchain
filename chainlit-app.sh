@@ -1,0 +1,1 @@
+chainlit run chainlit-app.py -w

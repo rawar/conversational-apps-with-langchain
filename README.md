@@ -67,6 +67,7 @@ LangChain is a framework for developing applications powered by large language m
 
 * [gradio-ollama-chat.py](gradio-ollama-chat.py)
 * [chainlit-app.py](chainlit-app.py)
+* [streamlit-ollama-chat.py](streamlit-ollama-chat.py)
 
 ## Low-code development with Langchain
 

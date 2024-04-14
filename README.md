@@ -34,8 +34,8 @@ LangChain is a framework for developing applications powered by large language m
 
 ## Caching and debugging
 
-[caching.ipynb](notebooks/caching.ipynb)
-[debugging.ipynb](notebooks/debugging.ipynb)
+* [caching.ipynb](notebooks/caching.ipynb)
+* [debugging.ipynb](notebooks/debugging.ipynb)
 
 ## Prompting
 
@@ -45,7 +45,8 @@ LangChain is a framework for developing applications powered by large language m
 
 ### RAG - Retrieval-Augmented Generation
 
-[rag.ipynb](notebooks/rag.ipynb)
+* [rag.ipynb](notebooks/rag.ipynb)
+* [rag2.ipynb](notebooks/rag2.ipynb)
 
 ### RAG Evaluation
 
@@ -57,8 +58,8 @@ LangChain is a framework for developing applications powered by large language m
 
 ### Agents
 
-Research Agents
-Generative Agents
+* Research Agents
+* Generative Agents
 
 ## UIs for Langchain
 

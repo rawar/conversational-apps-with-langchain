@@ -78,16 +78,14 @@ t.b.d.
 
 ## Sources
 
-```
-https://www.udemy.com/course/langchain/learn/lecture/37507516#overview
-https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/1/introduction
-https://github.com/CoderPush/chatlit
-https://www.gradio.app/
-https://github.com/langchain-ai/langchain
-https://flowiseai.com/
-https://langchaindart.com/#/
-https://python.langchain.com/cookbook/
-https://www.langflow.org/
-https://docs.smith.langchain.com
-https://api.python.langchain.com/en/latest/vectorstores/langchain_community.vectorstores.sqlitevss.SQLiteVSS.html
-```
+[https://www.udemy.com/course/langchain/learn/lecture/37507516#overview](https://www.udemy.com/course/langchain/learn/lecture/37507516#overview)
+[https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/1/introduction](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/1/introduction)
+[https://github.com/CoderPush/chatlit](https://github.com/CoderPush/chatlit)
+[https://www.gradio.app/](https://github.com/CoderPush/chatlit)
+[https://github.com/langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+[https://flowiseai.com/](https://flowiseai.com/)
+[https://langchaindart.com/#/](https://langchaindart.com/#/)
+[https://python.langchain.com/cookbook/](https://python.langchain.com/cookbook/)
+[https://www.langflow.org/](https://python.langchain.com/cookbook/)
+[https://docs.smith.langchain.com](https://docs.smith.langchain.com)
+[https://api.python.langchain.com/en/latest/vectorstores/langchain_community.vectorstores.sqlitevss.SQLiteVSS.html](https://api.python.langchain.com/en/latest/vectorstores/langchain_community.vectorstores.sqlitevss.SQLiteVSS.html)

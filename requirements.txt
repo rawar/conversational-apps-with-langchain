@@ -21,3 +21,7 @@ chromadb
 requests
 faiss-cpu
 termcolor
+bs4
+gradio
+chainlit
+streamlit

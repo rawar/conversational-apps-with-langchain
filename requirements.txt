@@ -26,3 +26,5 @@ gradio
 chainlit
 streamlit
 duckduckgo-search
+arxiv
+wikipedia

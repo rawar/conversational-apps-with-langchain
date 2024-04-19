@@ -43,6 +43,10 @@ LangChain is a framework for developing applications powered by large language m
 
 [prompting.ipynb](notebooks/prompting.ipynb)
 
+## Prompt Evaluation
+
+[promptfoo](promptfoo/promptfooconfig.yaml)
+
 ## Application types
 
 ### RAG - Retrieval-Augmented Generation
@@ -60,8 +64,8 @@ LangChain is a framework for developing applications powered by large language m
 
 ### Agents
 
-* Research Agents
-* Generative Agents
+* [research.ipynb](notebooks/research.ipynb)
+* [generative-agents.ipynb](notebooks/generative-agents.ipynb)
 
 ## UIs for Langchain
 

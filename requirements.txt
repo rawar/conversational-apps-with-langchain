@@ -29,3 +29,4 @@ duckduckgo-search
 arxiv
 wikipedia
 langchain-google-vertexai
+langchain-chroma

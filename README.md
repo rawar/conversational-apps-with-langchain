@@ -77,13 +77,9 @@ LangChain is a framework for developing applications powered by large language m
 
 Here are [examples](https://github.com/rawar/conversational-apps-with-langchain/tree/main/flows) of Langflow and Flowise.
 
-## Example applications
+## Bringing Langchain applications into production
 
-t.b.d.
-
-## Binging Langchain applications into production
-
-t.b.d.
+[Simple GRadio Chat App](https://huggingface.co/spaces/ramwar/my-first-chat) in [Hugging Face](https://huggingface.co/ramwar)
 
 ## Sources
 
